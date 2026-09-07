@@ -1,0 +1,6 @@
+{
+  "name": "Secure Messaging App",
+  "description": "End-to-end encrypted messaging with self-destruct timers, biometric authentication, and anonymous profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
